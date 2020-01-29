@@ -1,0 +1,11 @@
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\obj\Debug\netcoreapp3.1\Regular Expressions.csprojAssemblyReference.cache
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\obj\Debug\netcoreapp3.1\Regular Expressions.AssemblyInfoInputs.cache
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\obj\Debug\netcoreapp3.1\Regular Expressions.AssemblyInfo.cs
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\bin\Debug\netcoreapp3.1\Regular Expressions.exe
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\bin\Debug\netcoreapp3.1\Regular Expressions.deps.json
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\bin\Debug\netcoreapp3.1\Regular Expressions.runtimeconfig.json
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\bin\Debug\netcoreapp3.1\Regular Expressions.runtimeconfig.dev.json
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\bin\Debug\netcoreapp3.1\Regular Expressions.dll
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\bin\Debug\netcoreapp3.1\Regular Expressions.pdb
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\obj\Debug\netcoreapp3.1\Regular Expressions.dll
+C:\Users\kcvau\OneDrive\Desktop\GC Projects\Regular Expressions\Regular Expressions\obj\Debug\netcoreapp3.1\Regular Expressions.pdb
